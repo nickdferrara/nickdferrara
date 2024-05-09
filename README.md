@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Nicholas and welcome to my Github. I'm a software developer, who loves developing both mobile and web applications.
+- 👀 Technologies that I typically work in are Spring Boot with Kotlin, .NetCore with C# and Jetpack Compose with Kotlin
+- 📫 You can reach me at nick.d.ferrara@gmail.com
+- ⚡ Fun fact: I love to read, workout, snowboard and drink coffee and tea!
